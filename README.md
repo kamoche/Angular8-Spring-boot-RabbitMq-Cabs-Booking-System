@@ -34,6 +34,7 @@ How to run and test
      
  **Angular application : cabs-booking-app**      
   - Navigate to cabs-booking folder 
+  - npm install
   - Open command prompt and type : ng serve --open
   
 
